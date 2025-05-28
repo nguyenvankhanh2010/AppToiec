@@ -1,0 +1,367 @@
+[
+  {
+    "courseId": "toeic1",
+    "nameTest": "Bài kiểm tra từ vựng: toeic1",
+    "description": "Kiểm tra các từ vựng đã học trong khóa học này với 5 phần: Nghe, Đọc, Viết, Nói và Đóng vai.",
+    "testType": "vocabulary",
+    "partQuestions": [
+      [
+        {
+          "questionText": "Bạn nghe thấy gì? (Listen and select the correct phrase for 'Phát triển kỹ năng')",
+          "options": [
+            "Let me clarify that",
+            "Master Professional Development",
+            "Where is the nearest hotel?",
+            "Skill Development"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "questionText": "Bạn nghe thấy gì? (Listen and select the correct phrase for 'Thành thạo phát triển chuyên nghiệp')",
+          "options": [
+            "Master Professional Development",
+            "Where is the nearest hotel?",
+            "Skill Development",
+            "This is not what I expected"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "questionText": "Bạn nghe thấy gì? (Listen and select the correct phrase for 'Đây không phải là những gì tôi mong đợi')",
+          "options": [
+            "Skill Development",
+            "This is not what I expected",
+            "Let me clarify that",
+            "How much does it cost?"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "questionText": "Bạn nghe thấy gì? (Listen and select the correct phrase for 'Tôi thất vọng quá')",
+          "options": [
+            "I'd like to raise a point",
+            "I'm so disappointed",
+            "Skill Development",
+            "Where is the nearest hotel?"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "questionText": "Bạn nghe thấy gì? (Listen and select the correct phrase for 'Hãy để tôi làm rõ điều đó')",
+          "options": [
+            "This is not what I expected",
+            "How much does it cost?",
+            "I'm so disappointed",
+            "Let me clarify that"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "questionText": "Bạn nghe thấy gì? (Listen and select the correct phrase for 'Tôi muốn nêu lên một điểm')",
+          "options": [
+            "I'd like to raise a point",
+            "I'm so disappointed",
+            "Skill Development",
+            "Where is the nearest hotel?"
+          ],
+          "correctAnswer": 0
+        }
+      ],
+      [
+        {
+          "questionText": "Đâu là nghĩa của 'Skill Development'?",
+          "options": [
+            "Thành thạo phát triển chuyên nghiệp",
+            "Phát triển kỹ năng",
+            "Nó giá bao nhiêu?",
+            "Hãy để tôi làm rõ điều đó"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "questionText": "Đâu là nghĩa của 'Master Professional Development'?",
+          "options": [
+            "Hãy để tôi làm rõ điều đó",
+            "Tôi muốn nêu lên một điểm",
+            "Thành thạo phát triển chuyên nghiệp",
+            "Nó giá bao nhiêu?"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "questionText": "Đâu là nghĩa của 'This is not what I expected'?",
+          "options": [
+            "Phát triển kỹ năng",
+            "Nó giá bao nhiêu?",
+            "Hãy để tôi làm rõ điều đó",
+            "Đây không phải là những gì tôi mong đợi"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "questionText": "Đâu là nghĩa của 'I'm so disappointed'?",
+          "options": [
+            "Tôi muốn nêu lên một điểm",
+            "Hãy để tôi làm rõ điều đó",
+            "Tôi thất vọng quá",
+            "Nó giá bao nhiêu?"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "questionText": "Đâu là nghĩa của 'Let me clarify that'?",
+          "options": [
+            "Đây không phải là những gì tôi mong đợi",
+            "Hãy để tôi làm rõ điều đó",
+            "Khách sạn gần nhất ở đâu?",
+            "Thành thạo phát triển chuyên nghiệp"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "questionText": "Đâu là nghĩa của 'I'd like to raise a point'?",
+          "options": [
+            "Phát triển kỹ năng",
+            "Tôi muốn nêu lên một điểm",
+            "Nó giá bao nhiêu?",
+            "Đây không phải là những gì tôi mong đợi"
+          ],
+          "correctAnswer": 1
+        }
+      ],
+      [
+        {
+          "questionText": "Hoàn thành câu này: '_____ ___________' (Gợi ý: Phát triển kỹ năng)",
+          "options": [
+            "Skill I'm",
+            "Skill cost?",
+            "Skill is",
+            "Skill Development"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "questionText": "Hoàn thành câu này: '______ ____________ Development' (Gợi ý: Thành thạo phát triển chuyên nghiệp)",
+          "options": [
+            "so Professional Development",
+            "Professional Professional Development",
+            "Master Professional Development",
+            "How Professional Development"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "questionText": "Hoàn thành câu này: 'This __ ___ ____ I expected' (Gợi ý: Đây không phải là những gì tôi mong đợi)",
+          "options": [
+            "This is not so I expected",
+            "This is not clarify I expected",
+            "This is not what I expected",
+            "This is not Let I expected"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "questionText": "Hoàn thành câu này: '___ so ____________' (Gợi ý: Tôi thất vọng quá)",
+          "options": [
+            "cost? so disappointed",
+            "I'm so disappointed",
+            "to so disappointed",
+            "not so disappointed"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "questionText": "Hoàn thành câu này: '___ me _______ ____' (Gợi ý: Hãy để tôi làm rõ điều đó)",
+          "options": [
+            "Let me clarify that",
+            "Let me disappointed that",
+            "Let me Master that",
+            "Let me to that"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "questionText": "Hoàn thành câu này: '___ ____ to raise _ point' (Gợi ý: Tôi muốn nêu lên một điểm)",
+          "options": [
+            "I'd like to raise I point",
+            "I'd like to raise I'm point",
+            "I'd like to raise what point",
+            "I'd like to raise a point"
+          ],
+          "correctAnswer": 3
+        }
+      ],
+      [
+        {
+          "questionText": "Chọn cách phát âm đúng cho 'Skill Development'",
+          "options": [
+            "/skɪl dɪˈveləpmənt/",
+            "/wɛr ɪz ðə ˈnɪrɪst hoʊˈtɛl/",
+            "/ˈmæstər prəˈfɛʃənəl dɪˈvɛləpmənt/",
+            "/ðɪs ɪz nɑːt wʌt aɪ ɪkˈspɛktɪd/"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "questionText": "Chọn cách phát âm đúng cho 'Master Professional Development'",
+          "options": [
+            "/ˈmæstər prəˈfɛʃənəl dɪˈvɛləpmənt/",
+            "/aɪm soʊ ˌdɪsəˈpɔɪntɪd/",
+            "/haʊ mʌtʃ dʌz ɪt kɔːst/",
+            "/wɛr ɪz ðə ˈnɪrɪst hoʊˈtɛl/"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "questionText": "Chọn cách phát âm đúng cho 'This is not what I expected'",
+          "options": [
+            "/aɪd laɪk tə reɪz ə pɔɪnt/",
+            "/haʊ mʌtʃ dʌz ɪt kɔːst/",
+            "/ðɪs ɪz nɑːt wʌt aɪ ɪkˈspɛktɪd/",
+            "/lɛt mi ˈklærəˌfaɪ ðæt/"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "questionText": "Chọn cách phát âm đúng cho 'I'm so disappointed'",
+          "options": [
+            "/aɪm soʊ ˌdɪsəˈpɔɪntɪd/",
+            "/wɛr ɪz ðə ˈnɪrɪst hoʊˈtɛl/",
+            "/lɛt mi ˈklærəˌfaɪ ðæt/",
+            "/haʊ mʌtʃ dʌz ɪt kɔːst/"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "questionText": "Chọn cách phát âm đúng cho 'Let me clarify that'",
+          "options": [
+            "/ˈmæstər prəˈfɛʃənəl dɪˈvɛləpmənt/",
+            "/wɛr ɪz ðə ˈnɪrɪst hoʊˈtɛl/",
+            "/lɛt mi ˈklærəˌfaɪ ðæt/",
+            "/aɪd laɪk tə reɪz ə pɔɪnt/"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "questionText": "Chọn cách phát âm đúng cho 'I'd like to raise a point'",
+          "options": [
+            "/ˈmæstər prəˈfɛʃənəl dɪˈvɛləpmənt/",
+            "/wɛr ɪz ðə ˈnɪrɪst hoʊˈtɛl/",
+            "/aɪd laɪk tə reɪz ə pɔɪnt/",
+            "/skɪl dɪˈveləpmənt/"
+          ],
+          "correctAnswer": 2
+        }
+      ],
+      [
+        {
+          "questionText": "Hãy sử dụng những cụm từ sau trong một đối thoại: Let me clarify that, I'm so disappointed, Skill Development, This is not what I expected\nVai của bạn: Chọn câu trả lời phù hợp nhất cho tình huống.",
+          "options": [
+            "Skill Development",
+            "Master Professional Development",
+            "How much does it cost?",
+            "I'd like to raise a point"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    ]
+  },
+  {
+    "courseId": "toeic2",
+    "nameTest": "Bài kiểm tra từ vựng: toeic2",
+    "description": "Kiểm tra các từ vựng đã học trong khóa học này với 5 phần: Nghe, Đọc, Viết, Nói và Đóng vai.",
+    "testType": "vocabulary",
+    "partQuestions": [
+      [
+        {
+          "questionText": "Bạn nghe thấy gì? (Listen and select the correct phrase for 'Khách sạn gần nhất ở đâu?')",
+          "options": [
+            "Skill Development",
+            "I'd like to raise a point",
+            "Where is the nearest hotel?",
+            "Master Professional Development"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "questionText": "Bạn nghe thấy gì? (Listen and select the correct phrase for 'Nó giá bao nhiêu?')",
+          "options": [
+            "Let me clarify that",
+            "This is not what I expected",
+            "Master Professional Development",
+            "How much does it cost?"
+          ],
+          "correctAnswer": 3
+        }
+      ],
+      [
+        {
+          "questionText": "Đâu là nghĩa của 'Where is the nearest hotel?'?",
+          "options": [
+            "Đây không phải là những gì tôi mong đợi",
+            "Khách sạn gần nhất ở đâu?",
+            "Tôi thất vọng quá",
+            "Phát triển kỹ năng"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "questionText": "Đâu là nghĩa của 'How much does it cost?'?",
+          "options": [
+            "Tôi thất vọng quá",
+            "Hãy để tôi làm rõ điều đó",
+            "Nó giá bao nhiêu?",
+            "Khách sạn gần nhất ở đâu?"
+          ],
+          "correctAnswer": 2
+        }
+      ],
+      [
+        {
+          "questionText": "Hoàn thành câu này: '_____ __ the nearest ______' (Gợi ý: Khách sạn gần nhất ở đâu?)",
+          "options": [
+            "Where is the nearest that",
+            "Where is the nearest so",
+            "Where is the nearest much",
+            "Where is the nearest hotel?"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "questionText": "Hoàn thành câu này: '___ much ____ __ cost?' (Gợi ý: Nó giá bao nhiêu?)",
+          "options": [
+            "How much does it cost?",
+            "How much clarify it cost?",
+            "How much what it cost?",
+            "How much Skill it cost?"
+          ],
+          "correctAnswer": 0
+        }
+      ],
+      [
+        {
+          "questionText": "Chọn cách phát âm đúng cho 'Where is the nearest hotel?'",
+          "options": [
+            "/haʊ mʌtʃ dʌz ɪt kɔːst/",
+            "/ˈmæstər prəˈfɛʃənəl dɪˈvɛləpmənt/",
+            "/aɪd laɪk tə reɪz ə pɔɪnt/",
+            "/wɛr ɪz ðə ˈnɪrɪst hoʊˈtɛl/"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "questionText": "Chọn cách phát âm đúng cho 'How much does it cost?'",
+          "options": [
+            "/aɪm soʊ ˌdɪsəˈpɔɪntɪd/",
+            "/haʊ mʌtʃ dʌz ɪt kɔːst/",
+            "/ðɪs ɪz nɑːt wʌt aɪ ɪkˈspɛktɪd/",
+            "/lɛt mi ˈklærəˌfaɪ ðæt/"
+          ],
+          "correctAnswer": 1
+        }
+      ],
+      []
+    ]
+  }
+]

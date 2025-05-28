@@ -1,0 +1,169 @@
+{
+  "Lessons": [
+    {
+      "lessonId": "expressions_of_disappointment_lesson_1",
+      "category": "Expressions of Disappointment",
+      "title": "Expressions of Disappointment: Lesson 1",
+      "lessonNumber": 1,
+      "introduction": "Học cách bày tỏ cảm xúc không hài lòng một cách phù hợp trong các tình huống khác nhau.",
+      "vocabulary": [
+        {
+          "english": "This dress doesn't fit me anymore",
+          "vietnamese": "Chiếc đầm này không còn vừa với tôi nữa!",
+          "phonetic": "/ðɪs dres dʌznt fɪt mi ˌɛniˈmɔːr/"
+        },
+        {
+          "english": "You don't understand",
+          "vietnamese": "Anh không hiểu gì cả!",
+          "phonetic": "/ju doʊnt ˌʌndərˈstænd/"
+        },
+        {
+          "english": "I barely do anything",
+          "vietnamese": "Tôi dường như chẳng làm gì cả.",
+          "phonetic": "/aɪ ˈbɛrli du ˈɛniθɪŋ/"
+        },
+        {
+          "english": "How dare you",
+          "vietnamese": "Sao anh dám!",
+          "phonetic": "/haʊ dɛr ju/"
+        }
+      ],
+      "vocabulary_count": 4
+    },
+    {
+      "lessonId": "expressions_of_disappointment_lesson_2",
+      "category": "Expressions of Disappointment",
+      "title": "Expressions of Disappointment: Lesson 2",
+      "lessonNumber": 2,
+      "introduction": "Học cách bày tỏ cảm xúc không hài lòng một cách phù hợp trong các tình huống khác nhau.",
+      "vocabulary": [
+        {
+          "english": "What am I",
+          "vietnamese": "Tôi là cái thá gì chứ?",
+          "phonetic": "/wʌt æm aɪ/"
+        },
+        {
+          "english": "This is not what I expected",
+          "vietnamese": "Đây không phải là những gì tôi mong đợi",
+          "phonetic": "/ðɪs ɪz nɑːt wʌt aɪ ɪkˈspɛktɪd/"
+        },
+        {
+          "english": "I'm so disappointed",
+          "vietnamese": "Tôi thất vọng quá",
+          "phonetic": "/aɪm soʊ ˌdɪsəˈpɔɪntɪd/"
+        },
+        {
+          "english": "That's not fair",
+          "vietnamese": "Điều đó không công bằng",
+          "phonetic": "/ðæts nɑːt fɛr/"
+        }
+      ],
+      "vocabulary_count": 4
+    },
+    {
+      "lessonId": "business_communication_lesson_1",
+      "category": "Business Communication",
+      "title": "Business Communication: Lesson 1",
+      "lessonNumber": 1,
+      "introduction": "Làm quen với những cách diễn đạt chuyên nghiệp để sử dụng trong các cuộc họp và thảo luận công việc.",
+      "vocabulary": [
+        {
+          "english": "Let me clarify that",
+          "vietnamese": "Hãy để tôi làm rõ điều đó",
+          "phonetic": "/lɛt mi ˈklærəˌfaɪ ðæt/"
+        },
+        {
+          "english": "I'd like to raise a point",
+          "vietnamese": "Tôi muốn nêu lên một điểm",
+          "phonetic": "/aɪd laɪk tə reɪz ə pɔɪnt/"
+        },
+        {
+          "english": "Let's circle back to that later",
+          "vietnamese": "Hãy quay lại vấn đề đó sau",
+          "phonetic": "/lɛts ˈsɜːrkəl bæk tə ðæt ˈleɪtər/"
+        },
+        {
+          "english": "I'll follow up on that",
+          "vietnamese": "Tôi sẽ theo dõi việc đó",
+          "phonetic": "/aɪl ˈfɑːloʊ ʌp ɑːn ðæt/"
+        },
+        {
+          "english": "Could you elaborate?",
+          "vietnamese": "Bạn có thể giải thích rõ hơn không?",
+          "phonetic": "/kʊd ju ɪˈlæbəreɪt/"
+        }
+      ],
+      "vocabulary_count": 5
+    },
+    {
+      "lessonId": "travel_phrases_lesson_1",
+      "category": "Travel Phrases",
+      "title": "Travel Phrases: Lesson 1",
+      "lessonNumber": 1,
+      "introduction": "Nắm vững những cụm từ thiết yếu giúp bạn tự tin giao tiếp khi đi du lịch đến các quốc gia nói tiếng Anh.",
+      "vocabulary": [
+        {
+          "english": "Where is the nearest hotel?",
+          "vietnamese": "Khách sạn gần nhất ở đâu?",
+          "phonetic": "/wɛr ɪz ðə ˈnɪrɪst hoʊˈtɛl/"
+        },
+        {
+          "english": "How much does it cost?",
+          "vietnamese": "Nó giá bao nhiêu?",
+          "phonetic": "/haʊ mʌtʃ dʌz ɪt kɔːst/"
+        },
+        {
+          "english": "I need a taxi",
+          "vietnamese": "Tôi cần một taxi",
+          "phonetic": "/aɪ niːd ə ˈtæksi/"
+        },
+        {
+          "english": "Is there a restaurant nearby?",
+          "vietnamese": "Có nhà hàng nào gần đây không?",
+          "phonetic": "/ɪz ðɛr ə ˈrɛstərɑːnt ˈnɪrˌbaɪ/"
+        },
+        {
+          "english": "Can you recommend a good place to visit?",
+          "vietnamese": "Bạn có thể giới thiệu một nơi tốt để tham quan không?",
+          "phonetic": "/kæn ju ˌrɛkəˈmɛnd ə ɡʊd pleɪs tə ˈvɪzɪt/"
+        }
+      ],
+      "vocabulary_count": 5
+    },
+    {
+      "lessonId": "human_resources_lesson_1",
+      "category": "Human Resources",
+      "title": "Human Resources: Lesson 1",
+      "lessonNumber": 1,
+      "introduction": "Bạn sẽ học các cụm từ và cách diễn đạt chuyên nghiệp thường dùng trong phỏng vấn việc làm và giao tiếp HR.",
+      "vocabulary": [
+        {
+          "english": "I'd like to apply for this position",
+          "vietnamese": "Tôi muốn ứng tuyển vị trí này",
+          "phonetic": "/aɪd laɪk tu əˈplaɪ fɔr ðɪs pəˈzɪʃən/"
+        },
+        {
+          "english": "What are the benefits?",
+          "vietnamese": "Những quyền lợi là gì?",
+          "phonetic": "/wʌt ɑr ðə ˈbɛnəfɪts/"
+        },
+        {
+          "english": "When can I expect to hear back?",
+          "vietnamese": "Khi nào tôi có thể nhận được phản hồi?",
+          "phonetic": "/wɛn kæn aɪ ɪkˈspɛkt tə hɪr bæk/"
+        },
+        {
+          "english": "What's the company culture like?",
+          "vietnamese": "Văn hóa công ty như thế nào?",
+          "phonetic": "/wʌts ðə ˈkʌmpəni ˈkʌltʃər laɪk/"
+        },
+        {
+          "english": "I have experience in this field",
+          "vietnamese": "Tôi có kinh nghiệm trong lĩnh vực này",
+          "phonetic": "/aɪ hæv ɪkˈspɪriəns ɪn ðɪs fiːld/"
+        }
+      ],
+      "vocabulary_count": 5
+    }
+  ]
+}

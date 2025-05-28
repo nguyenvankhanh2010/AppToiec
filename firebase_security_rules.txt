@@ -1,0 +1,47 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /Users/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+    
+    // Direct access to Lessons collection
+    match /Lessons/{lessonId} {
+      allow read, write: if true;
+      
+      // Access to Vocabulary subcollection within a lesson
+      match /Vocabulary/{vocabularyId} {
+        allow read, write: if true;
+      }
+      
+      // Access to Subtitles subcollection within a lesson
+      match /Subtitles/{subtitleId} {
+        allow read, write: if true;
+      }
+    }
+    
+    match /Courses/{courseId} {
+      allow read, write: if true; // Allow access to courses
+      
+      // Access to Lessons subcollection within a course
+      match /Lessons/{lessonId} {
+        allow read, write: if true;
+        
+        // Access to Vocabulary subcollection within a lesson that's in a course
+        match /Vocabulary/{vocabularyId} {
+          allow read, write: if true;
+        }
+        
+        // Access to Subtitles subcollection within a lesson that's in a course
+        match /Subtitles/{subtitleId} {
+          allow read, write: if true;
+        }
+      }
+      
+      match /wordGame1/{documentId} {
+        allow read: if true;
+        allow write: if request.auth != null;
+      }
+    }
+  }
+} 

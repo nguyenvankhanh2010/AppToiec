@@ -1,0 +1,61 @@
+[
+  {
+    "courseId": "course1",
+    "nameTest": "Bài kiểm tra từ vựng: course1",
+    "description": "Kiểm tra các từ vựng đã học trong khóa học này với 5 phần: Nghe, Đọc, Viết, Nói và Đóng vai.",
+    "testType": "vocabulary",
+    "partQuestions": [
+      [
+        {
+          "questionText": "How do you say 'thank you'?",
+          "options": [
+            "xin chào",
+            "tạm biệt",
+            "cảm ơn",
+            "hẹn gặp lại"
+          ],
+          "correctAnswer": 2
+        }
+      ],
+      [
+        {
+          "questionText": "What is the meaning of 'hello'?",
+          "options": [
+            "xin chào",
+            "tạm biệt",
+            "cảm ơn",
+            "hẹn gặp lại"
+          ],
+          "correctAnswer": 0
+        }
+      ],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "courseId": "course2",
+    "nameTest": "Bài kiểm tra từ vựng: course2",
+    "description": "Kiểm tra các từ vựng đã học trong khóa học này với 5 phần: Nghe, Đọc, Viết, Nói và Đóng vai.",
+    "testType": "vocabulary",
+    "partQuestions": [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "questionText": "Choose the correct response",
+          "options": [
+            "How are you?",
+            "Thank you",
+            "Nice to meet you",
+            "Goodbye"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    ]
+  }
+]
